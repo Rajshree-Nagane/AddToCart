@@ -8,3 +8,4 @@ It is built using HTML, CSS, and Javascript
  
  </div>
 
+![image](https://github.com/Rajshree-Nagane/AddToCart/assets/151632485/9f2693ae-5cd7-421e-9f2a-a05d29c967f2)
