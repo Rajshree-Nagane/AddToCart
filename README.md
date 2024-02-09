@@ -1,6 +1,6 @@
 <div align="center">
 
-#AddTocart
+<h1>AddTocart</h1>
 
 It is built using HTML, CSS, and Javascript
 
